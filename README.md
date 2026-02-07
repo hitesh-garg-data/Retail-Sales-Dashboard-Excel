@@ -31,7 +31,7 @@ KPI	Value:
 - Total Profit	₹52,211
 - Profit Margin	11.98%
 - Average Price/Unit	₹60.81
-- KPIs update instantly when slicers are used.
+KPIs update instantly when slicers are used.
 
 ## 📈 Dashboard Features
 
