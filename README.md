@@ -24,14 +24,14 @@ The dashboard supports exploratory understanding of:
 - Provide dynamic filtering (Product / Region / Month / Date range)
 
 ## 🧮 Key Metrics (KPIs)
-KPI	Value
-Total Gross Sales	₹9,62,713
-Total Discount Given	₹5,27,026
-Total Net Sales	₹4,35,687
-Total Profit	₹52,211
-Profit Margin	11.98%
-Average Price/Unit	₹60.81
-KPIs update instantly when slicers are used.
+KPI	Value:
+- Total Gross Sales	₹9,62,713
+- Total Discount Given	₹5,27,026
+- Total Net Sales	₹4,35,687
+- Total Profit	₹52,211
+- Profit Margin	11.98%
+- Average Price/Unit	₹60.81
+- KPIs update instantly when slicers are used.
 
 ## 📈 Dashboard Features
 
