@@ -37,24 +37,24 @@ KPIs update instantly when slicers are used.
 ## 📈 Dashboard Features
 
 1️⃣ Interactive Visuals
-Net Sales by Region — Column Chart
-Profit by Product — Bar Chart
-Trend by Month (Net Sales & Profit) — Line Chart
-Discount vs Profit Correlation — Dual-line chart
-Profit Margin Heatmap — Conditional formatting
-Sales Breakdown (Gross, Discount, Net, Cost, Profit)
+- Net Sales by Region — Column Chart
+- Profit by Product — Bar Chart
+- Trend by Month (Net Sales & Profit) — Line Chart
+- Discount vs Profit Correlation — Dual-line chart
+- Profit Margin Heatmap — Conditional formatting
+- Sales Breakdown (Gross, Discount, Net, Cost, Profit)
 
 2️⃣ Filters & Interactivity
-Slicers → Product, Region, Month
-Timeline → Full date range (Jan–Mar 2023)
-All charts auto-update with selections
+- Slicers → Product, Region, Month
+- Timeline → Full date range (Jan–Mar 2023)
+- All charts auto-update with selections
 
 3️⃣ Professional Layout
-KPI Cards
-Styled slicers
-Theme-based visuals
-Heatmaps for loss identification
-Clean layout without gridlines
+- KPI Cards
+- Styled slicers
+- Theme-based visuals
+- Heatmaps for loss identification
+- Clean layout without gridlines
 
 ## 🧠 Observations & Patterns
 - North region has the highest Net Sales but also the 2nd lowest Profit Margin.
